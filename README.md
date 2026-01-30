@@ -72,3 +72,6 @@
 
 #### 🎬 Video & Media Editing
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-233A51?logo=davinciresolve&logoColor=white)
+
+📫 How to reach me  
+- LinkedIn: www.linkedin.com/in/carlaboscolo
