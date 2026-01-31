@@ -44,6 +44,8 @@
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=database&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
 
 ---
 
@@ -72,11 +74,17 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?logo=adobexd&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
+![Affinity Photo](https://img.shields.io/badge/Affinity_Photo-7E4DD2?logo=affinityphoto&logoColor=white)
+![Affinity Designer](https://img.shields.io/badge/Affinity_Designer-1B72BE?logo=affinitydesigner&logoColor=white)
+![Affinity Publisher](https://img.shields.io/badge/Affinity_Publisher-C9284D?logo=affinitypublisher&logoColor=white)
 
 ---
 
-### 🎬 Video & Media Editing
+### 🎬 Video, Motion & Media Editing
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-233A51?logo=davinciresolve&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?logo=adobepremierepro&logoColor=white)
+![After Effects](https://img.shields.io/badge/After_Effects-9999FF?logo=adobeaftereffects&logoColor=white)
+![Apple Motion](https://img.shields.io/badge/Motion-000000?logo=apple&logoColor=white)
 
 ---
 
